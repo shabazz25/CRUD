@@ -46,7 +46,7 @@ const clearFields = () => {
 }
 
 const saveClient = () => {
-    debugger
+   // debugger
     if (isValidFields()) {
         const client = {
             nome: document.getElementById('nome').value,
