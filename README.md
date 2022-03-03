@@ -6,5 +6,8 @@ Efetuadas algumas adequações como:
 Corrigidos alguns erros em classes html
 Corrigidos erros em funções.
 
+Projeto pode ser visto no endereço
+https://shabazz25.github.io/CRUD/
+
 
 André Pereira Pinheiro
